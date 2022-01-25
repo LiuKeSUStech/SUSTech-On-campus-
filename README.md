@@ -1,3 +1,3 @@
-# SUSTechLK<On-campus>
+# SUSTechLK_On_campus
 For storing on-campus study work
 This is a place to store classroom learning and self-driven learning, where I hope to record the learning process, reproduce the books and papers I read, summarize and organize the skills I have learned.
